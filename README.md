@@ -1,30 +1,42 @@
-# React + TypeScript + Vite
+# React + TypeScript + Firebase + Framer Motion + Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Fitness Gym Website
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/zohiaby/Fitness-Gym-Website-Reeact-Next-JS-Firebase-Tailwind/assets/121012940/fdf82bfa-ce48-4ab0-b72f-3b2c765864fd
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+This is a simple Responsive  Fitness Gym Website website created by Zohaib Yasin using React + TypeScript + Firebase + Framer Motion + Tailwind
+## How to Run
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+1. **Clone the Repository:**
+    ```
+    git clone https://github.com/zohiaby/Fitness-Gym-Website-Reeact-Next-JS-Firebase-Tailwind
+    ```
+
+2. **Open the Project:**
+    - Locate the `Fitness-Gym-Website-Reeact-Next-JS-Firebase-Tailwind ` folder in the project directory.   
+
+
+3. **Navigate to the Project Directory:**
+    ```
+    cd Fitness-Gym-Website-Reeact-Next-JS-Firebase-Tailwind
+    ```
+
+4. **Install the Required Dependenies:**
+    ```
+    npm install
+    ```
+
+45. **Run the project:**
+    ```
+    npm start
+    ```
+
+    - Then, open your web browser and navigate to `http://localhost:5017`.
+
+## Contact
+
+For any inquiries or feedback, you can reach out to Zohaib Yasin at [zohaiby33@gmail.com](mailto:zohaiby33@gmail.com).
