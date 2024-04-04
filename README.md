@@ -13,7 +13,7 @@ This is a simple Responsive  Fitness Gym Website website created by Zohaib Yasin
 
 1. **Clone the Repository:**
     ```
-    git clone https://github.com/zohiaby/Fitness-Gym-Website-Reeact-Next-JS-Firebase-Tailwind
+    git clone https://github.com/zohiaby/Fitness-Gym-Website-Reeact-JS-Firebase-Tailwind
     ```
 
 2. **Open the Project:**
